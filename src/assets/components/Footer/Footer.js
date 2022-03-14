@@ -75,7 +75,7 @@ export default function Footer() {
           </Body>
         </Nav>
         <Body as="small" style={{ color: Colors.Text.Gray300 }}>
-          © 2020 Landify UI Kit. All rights reserved
+          © 2020 Landify UI Kit. All rights reserved to Gabriel Silva
         </Body>
       </LeftColumn>
       <RightColumn>
