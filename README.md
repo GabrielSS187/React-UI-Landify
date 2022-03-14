@@ -11,7 +11,7 @@ Aqui</a></h1>
 
 ## 📕 Sobre o Projeto
 
-**React UI Landify** É uma Landing Page básica feita com "React" e "Styled-Components". A proposta do conteúdo da landing page é um organizador de projetos e tarefas com uma aplicação mobile que pretendo fazer no futuro quando eu começa a estudar "React Native". Fiz este Projeto com a ajuda de um canal do youtube por que estava mais interessado em aprender mais do que eu já sabia, sobre o "Styled-Components".
+**React UI Landify** É uma Landing Page básica feita com "React" e "Styled-Components". A proposta do conteúdo da landing page é um organizador de projetos e tarefas com uma aplicação mobile que pretendo fazer no futuro quando eu começa a estudar "React Native". Fiz este Projeto com a ajuda de um canal do youtube por que estava mais interessado em aprender mais do que eu já sabia, sobre o "Styled-Components".  OBS : Ainda irei deixar o site responsivo
 
 ## 🔨 Tecnológias usadas
 
